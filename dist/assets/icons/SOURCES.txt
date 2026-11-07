@@ -1,3 +1,0 @@
-Devicon SVG icons (MIT): https://github.com/devicons/devicon
-Java, Python, MySQL, Flutter, and Amazon Web Services original variants.
-See DEVICON-LICENSE.txt.
